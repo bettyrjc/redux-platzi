@@ -2,9 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import reduxThunk from 'redux-thunk';
 
-import '../src/css/bootstrap.css'
 import '../src/css/index.css';
-import '../src/css/iconos.css';
 import App from './components/App';
 
 import { createStore, applyMiddleware} from 'redux';

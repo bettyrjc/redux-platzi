@@ -1,0 +1,36 @@
+.margen {
+	margin: 100px;
+}
+
+.tabla {
+	width: 100%;
+	text-align: left;
+}
+
+.tabla td {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#menu{
+	background-color:antiquewhite;
+	padding: 20px;
+	font-size: 20px;
+}
+#menu a{
+	color: rgb(43, 46, 226);
+	padding-right: 50px;
+}
+body{
+	margin: 0;
+}
+
+.center{
+	text-align: center;
+}
+.red{
+	color:red;
+}
+.pub_title{
+	border-top: 1px solid black;
+}
